@@ -87,7 +87,7 @@ export default function Hero() {
 
         <div className={styles.badges}>
           <a
-            href="https://drive.google.com/file/d/1upxr8NuuwwXgoViUpLdiJNomth2zEJN-/view"
+            href="https://drive.google.com/file/d/1hyfvALJ2hGWbaaaSR1OjtbDUO1iRG0r7/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className={styles.downloadResumeButton}
